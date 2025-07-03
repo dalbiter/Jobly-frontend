@@ -4,8 +4,6 @@
 
 ## Description: 
 
-[Try it out](https://pasha-log.github.io/react-2-assessment/)
-
 Until a week ago (hypothetically), I was the lead developer at Silicon Valley’s hottest coding cafe, “The Closure Cafe”. I had a nice React app that listed my food items drawing those from a static list of items hard-coded into my app.
 
 Now, though, the cafe has gotten its liquor license and relaunched itself as “Snack or Booze”, and the app needed to change!
